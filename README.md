@@ -1,5 +1,7 @@
 # Game Guide — React Boilerplate
 
+**[Live Demo →](https://strxblu.github.io/game-guide/)**
+
 A React + TypeScript boilerplate for building game guides with tabbed navigation, filterable skill lists, and JSON-driven content.
 
 > **Disclaimer:** This is a personal project built for fun and learning. It is not affiliated with or endorsed by any game developer or publisher. All game content, names, and trademarks referenced in the included example data belong to their respective owners.
