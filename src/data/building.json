@@ -1,0 +1,16 @@
+{
+  "tldr": "Yes, build — but build with intent. Campsites support travel, cooking, and resting, while Building Areas are where your larger base facilities do the most work. The most valuable upgrades are usually the ones that reduce repetitive crafting and gathering chores.",
+  "zones": [
+    { "icon": "🏕️", "name": "Campsites", "color": "#72e0aa", "how": "Found throughout the world and set up with a camping set.", "use": "Useful for cooking, resting, and fast travel. They are especially valuable when you are exploring far from base or heading into a tough encounter.", "priority": "Set these up early whenever the opportunity appears." },
+    { "icon": "🏠", "name": "Building Areas (House Icons)", "color": "#e8a045", "how": "Available in suitable locations after progression or area clearing.", "use": "These are your main large-scale base spaces. Use them for facilities when you want practical benefits, or for comfort layouts when you are aiming for rewards.", "priority": "These are the most important places for long-term base value." },
+    { "icon": "🔬", "name": "Starting Atelier", "color": "#c084f0", "how": "Your initial base area.", "use": "A good place for early organization, synthesis support, and basic utilities.", "priority": "Furnish it early so your core loop feels smoother." }
+  ],
+  "facilities": [
+    { "rank": 1, "icon": "🌿", "name": "Greenhouse", "unlock": "Mid-game region progression", "color": "#72e0aa", "why": "A major quality-of-life facility for reducing repeated ingredient grinding and keeping your crafting loop efficient.", "warning": "High priority once available." },
+    { "rank": 2, "icon": "🏭", "name": "Manufacturing Plant", "unlock": "Mid-game region progression", "color": "#e8a045", "why": "Helps reduce the amount of repetitive material crafting you need to do by hand and smooths out your production cycle.", "warning": "A strong pickup for active crafters." },
+    { "rank": 3, "icon": "📦", "name": "Warehouse", "unlock": "Early or via progression rewards", "color": "#c8a86a", "why": "Helpful for storage and organization, though the urgency depends on how heavily you stockpile materials.", "warning": "Nice to have, but usually not the first priority." },
+    { "rank": 4, "icon": "🔄", "name": "Mana Converter", "unlock": "Later progression", "color": "#5a5090", "why": "A situational utility option that usually falls behind production-focused facilities in priority.", "warning": "Treat as a later convenience upgrade." }
+  ],
+  "comfortTip": "If you want comfort rewards, build a simple layout first, claim the reward threshold you need, and then swap the space over to a more functional setup afterward.",
+  "campsiteTip": "Cooking at Campsites is especially useful before bosses and long exploration runs, since food buffs can make a noticeable difference."
+}

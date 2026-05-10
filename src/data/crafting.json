@@ -1,0 +1,19 @@
+{
+  "order": [
+    { "step": 1, "icon": "🧱", "name": "Intermediary Ingredients First", "tag": "Always", "tagColor": "#e8a045", "detail": "Whenever possible, work from upgraded ingredients instead of raw materials. Intermediary items usually give you better synthesis results and more flexibility in the long run." },
+    { "step": 2, "icon": "💥", "name": "Attack Consumables Early", "tag": "Early Game", "tagColor": "#d94f4f", "detail": "Practical consumables are often the fastest way to get immediate value from synthesis. They can keep battles manageable while your gear is still developing." },
+    { "step": 3, "icon": "⚔️", "name": "Wait for Recipe Level 3 Before Crafting Gear", "tag": "Always", "tagColor": "#f5c878", "detail": "Recipe levels improve synthesis options, so it is usually worth investing particles before you lock in final gear pieces." },
+    { "step": 4, "icon": "📈", "name": "Level Recipes to 5 and 8 for More Slots", "tag": "Mid Game", "tagColor": "#72e0aa", "detail": "Recipe progression stays relevant throughout the game. Revisit older recipes when you have the resources to push them further." }
+  ],
+  "coreGuide": [
+    { "core": "Quality Core", "color": "#f5c878", "icon": "⭐", "when": "Consumables and intermediary ingredients", "howto": "Use your strongest ingredients here when you want the finished item itself to be better. Quality is one of the most important synthesis values to watch.", "priority": "High early. Raise your quality ceiling first whenever possible." },
+    { "core": "Effect Cores", "color": "#72e0aa", "icon": "✨", "when": "Battle items and gear", "howto": "Matching ingredient types and strong resonance help improve effect performance. This is especially important for items you use often.", "priority": "High for combat items. Effects scale directly into usefulness." },
+    { "core": "Trait Core", "color": "#c084f0", "icon": "💎", "when": "Weapons and equipment", "howto": "Traits become more important once you have stronger materials and more room to optimize. Treat this as a later layer of crafting refinement.", "priority": "Mid-to-late. Prioritize only after your core items are stable." }
+  ],
+  "tips": [
+    { "icon": "🔁", "text": "Ingredient placement matters. Core effects and slot effects are not interchangeable, so read each effect carefully before deciding where to place a material." },
+    { "icon": "🌈", "text": "High-value intermediary ingredients are often worth saving for your most important crafts instead of spending them immediately." },
+    { "icon": "🏭", "text": "Once your crafting loop is established, duplication and production facilities can save a huge amount of time." },
+    { "icon": "💾", "text": "A backup save is a smart idea before expensive late-game synthesis, especially if you want to experiment with different builds." }
+  ]
+}

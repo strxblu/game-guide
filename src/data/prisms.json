@@ -1,0 +1,9 @@
+{
+  "howToGet": "Energy Prisms come from exploration-related progression, including shrine-style content and map discoveries, so it is worth collecting them consistently as you move through the world.",
+  "items": [
+    { "order": 1, "name": "Energy Meter Capacity", "tag": "First Priority", "tagColor": "#b0a8ff", "icon": "⚡", "why": "This is one of the most immediately useful upgrades because more Energy gives you more freedom while exploring dangerous areas." },
+    { "order": 2, "name": "Bike Upgrades (Procella)", "tag": "After You Get the Bike", "tagColor": "#8880d0", "icon": "🏍️", "why": "Movement upgrades become much more valuable once the bike is available, since they open up new parts of the map." },
+    { "order": 3, "name": "Skill Tree Locks", "tag": "Later / As Needed", "tagColor": "#5a5090", "icon": "🔓", "why": "Useful when you hit progression gates deeper in the tree, but not usually the first thing to spend Prisms on." },
+    { "order": 4, "name": "Energy Consumption Reduction", "tag": "Quality of Life", "tagColor": "#4a4070", "icon": "🔋", "why": "A nice convenience upgrade once your Energy pool is already comfortable." }
+  ]
+}

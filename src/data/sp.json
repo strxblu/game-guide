@@ -1,0 +1,21 @@
+{
+  "shouldYouSynthesize": {
+    "detail": "Yes — consistently. Synthesis is part of normal progression, and you should be using it regularly rather than waiting until the end of the game."
+  },
+  "whatToMake": {
+    "detail": "In general, newer and higher-tier recipes are better SP targets than older ones. If you have more recent recipes unlocked, they are usually the best place to spend materials and time."
+  },
+  "methods": [
+    { "rank": 1, "icon": "🔁", "name": "Item Rebuilding (Unknown Recipes)", "efficiency": "Highest", "effColor": "#f5c878", "detail": "One of the most efficient ways to get value from synthesis progress, especially when you already have an item worth improving." },
+    { "rank": 2, "icon": "🏗️", "name": "Synthesize High-Tier Recipes", "efficiency": "High", "effColor": "#c8a86a", "detail": "Later recipes generally give better returns than repeatedly crafting low-tier items. If your recipe list has advanced, your SP farming should advance with it." },
+    { "rank": 3, "icon": "❓", "name": "Investigate '?' Symbols on the Map", "efficiency": "Good (passive)", "effColor": "#72e0aa", "detail": "Map discoveries, shrines, and other exploration points can provide useful rewards, so they are worth collecting as you move through the world." },
+    { "rank": 4, "icon": "📋", "name": "Random Quests (Research Team)", "efficiency": "Moderate", "effColor": "#8880d0", "detail": "Repeatable tasks and side quests are solid supplemental SP sources, particularly when they also give ingredients or other useful rewards." },
+    { "rank": 5, "icon": "🏔️", "name": "Pioneering Goals & Side Quests", "efficiency": "Moderate (one-time)", "effColor": "#506070", "detail": "These are one-time rewards, but they add up over a full playthrough and are worth clearing when convenient." }
+  ],
+  "avoid": [
+    "Do not overfocus on low-tier synthesis if better recipes are already available.",
+    "Do not ignore map discoveries while exploring.",
+    "Do not assume quality is the only factor that matters for SP efficiency.",
+    "Combat EXP nodes are usually lower priority early if your other progression is more important."
+  ]
+}

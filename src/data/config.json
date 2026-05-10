@@ -1,0 +1,28 @@
+{
+  "appTitle": "Atelier Yumia · Field Guide",
+  "navTabs": [
+    { "key": "skills",   "label": "Skills",   "icon": "🌿" },
+    { "key": "crafting", "label": "Crafting",  "icon": "⚗️" },
+    { "key": "sp",       "label": "SP Farm",   "icon": "✨" },
+    { "key": "building", "label": "Building",  "icon": "🏠" },
+    { "key": "prisms",   "label": "Prisms",    "icon": "💠" }
+  ],
+  "credits": {
+    "note": "This guide was assembled from community knowledge and while progressing on my personal playthrough using a \"human-in-the-loop\" workflow. All game content belongs to Koei Tecmo and Gust.",
+    "contributors": [
+      { "name": "strxblu", "role": "Architect" },
+      { "name": "VS Code & GitHub Copilot", "role": "Infrastructure" },
+      { "name": "Claude", "role": "Logic and JSX/TSX refactoring" },
+      { "name": "ChatGPT", "role": "Content synthesis" },
+      { "name": "Perplexity", "role": "Research, fact checking, content refinement, and wording assistance" },
+      { "name": "Gemini", "role": "Review" }
+    ],
+    "references": [
+      { "label": "r/Atelier", "url": "https://www.reddit.com/r/Atelier/" },
+      { "label": "Steam Community Guides — Atelier Yumia", "url": "https://steamcommunity.com/app/3123410/guides/" },
+      { "label": "GameFAQs — Atelier Yumia Guide", "url": "https://gamefaqs.gamespot.com/ps5/484507-atelier-yumia-the-alchemist-of-memories-and-the-envisioned/faqs/81767" },
+      { "label": "Fextralife Wiki — Atelier Yumia", "url": "https://atelieryumia.wiki.fextralife.com/" },
+      { "label": "TechRaptor — Skill Tree Guide", "url": "https://techraptor.net/gaming/guides/atelier-yumia-skill-tree-guide" }
+    ]
+  }
+}
